@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Calendar_initial_state.png",
-        "test": "../bitmaps_test/20240303-132045/Calendar_initial_state.png",
+        "test": "../bitmaps_test/20240307-125651/Calendar_initial_state.png",
         "selector": "body",
         "fileName": "Calendar_initial_state.png",
         "label": "Calendar initial state",
@@ -28,7 +28,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Calendar_day_with_hover_effect.png",
-        "test": "../bitmaps_test/20240303-132045/Calendar_day_with_hover_effect.png",
+        "test": "../bitmaps_test/20240307-125651/Calendar_day_with_hover_effect.png",
         "selector": "body",
         "fileName": "Calendar_day_with_hover_effect.png",
         "label": "Calendar day with hover effect",
@@ -52,7 +52,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Calendar_starting_from_Wednesday.png",
-        "test": "../bitmaps_test/20240303-132045/Calendar_starting_from_Wednesday.png",
+        "test": "../bitmaps_test/20240307-125651/Calendar_starting_from_Wednesday.png",
         "selector": "body",
         "fileName": "Calendar_starting_from_Wednesday.png",
         "label": "Calendar starting from Wednesday",
@@ -76,7 +76,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Calendar_with_length_of_29_days.png",
-        "test": "../bitmaps_test/20240303-132045/Calendar_with_length_of_29_days.png",
+        "test": "../bitmaps_test/20240307-125651/Calendar_with_length_of_29_days.png",
         "selector": "body",
         "fileName": "Calendar_with_length_of_29_days.png",
         "label": "Calendar with length of 29 days",
